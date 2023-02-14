@@ -24,4 +24,9 @@ public class Calculator {
     public int divide(int num1, int num2) {
         return num1 / num2;
     }
+    //testing the code inspector
+    public int divide(int num1, int num2) {
+        return num1 / num2;
+    }
+    
 }
